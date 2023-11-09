@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "NllX6nL6VO2f68liAOGjbpdXsO7D6Dn2VBR8vxi8sKZbULQrl0RVp6be9MHaXtTLmXk2g+ZNPcHSbrWmBFc5Fw==",
+  "success": true,
+  "projectFilePath": "/Users/nikolajlelekov/Desktop/алг/priora 3/ClassLibrary1/ClassLibrary1.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

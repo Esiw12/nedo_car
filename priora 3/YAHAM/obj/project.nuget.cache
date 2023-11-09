@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "A9I+8yYKGWus1FhqNfL3uXnhwIex8DTge9kII+KsalJSahCfGXaGNT8mkoZEtVUIDoITE8+rTIUJEsjjDH3AyA==",
+  "success": true,
+  "projectFilePath": "/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/YAHAM.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.netcore.app.ref/6.0.23/microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "/Users/nikolajlelekov/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.23/microsoft.netcore.app.host.osx-arm64.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}

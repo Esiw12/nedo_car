@@ -1,0 +1,90 @@
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/YAHAM.exe
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/YAHAM.deps.json
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/YAHAM.runtimeconfig.json
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/YAHAM.dll
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/YAHAM.pdb
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfo.cs
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.dll
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/refint/YAHAM.dll
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.pdb
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.genruntimeconfig.cache
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/ref/YAHAM.dll
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/ClassLibrary1.dll
+C:/Users/user/Desktop/lok/YAHAM/bin/Debug/net6.0/ClassLibrary1.pdb
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/lok/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CopyComplete
+D:/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.exe
+D:/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.deps.json
+D:/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.runtimeconfig.json
+D:/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.dll
+D:/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.pdb
+D:/alg/priora/YAHAM/bin/Debug/net6.0/ClassLibrary1.dll
+D:/alg/priora/YAHAM/bin/Debug/net6.0/ClassLibrary1.pdb
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.AssemblyReference.cache
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.GeneratedMSBuildEditorConfig.editorconfig
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfoInputs.cache
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfo.cs
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CoreCompileInputs.cache
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CopyComplete
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.dll
+D:/alg/priora/YAHAM/obj/Debug/net6.0/refint/YAHAM.dll
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.pdb
+D:/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.genruntimeconfig.cache
+D:/alg/priora/YAHAM/obj/Debug/net6.0/ref/YAHAM.dll
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.deps.json
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.runtimeconfig.json
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.dll
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/YAHAM.pdb
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/ClassLibrary1.dll
+/Volumes/NO NAME/alg/priora/YAHAM/bin/Debug/net6.0/ClassLibrary1.pdb
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.AssemblyReference.cache
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfoInputs.cache
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfo.cs
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CoreCompileInputs.cache
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CopyComplete
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.dll
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/refint/YAHAM.dll
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.pdb
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/YAHAM.genruntimeconfig.cache
+/Volumes/NO NAME/alg/priora/YAHAM/obj/Debug/net6.0/ref/YAHAM.dll
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.AssemblyReference.cache
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfoInputs.cache
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfo.cs
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CoreCompileInputs.cache
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.dll
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/refint/YAHAM.dll
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.pdb
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/YAHAM
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.deps.json
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.runtimeconfig.json
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.dll
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.pdb
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/ClassLibrary1.dll
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/bin/Debug/net6.0/ClassLibrary1.pdb
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CopyComplete
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.genruntimeconfig.cache
+/Users/nikolajlelekov/Downloads/priora 3/YAHAM/obj/Debug/net6.0/ref/YAHAM.dll
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/YAHAM
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.deps.json
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.runtimeconfig.json
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.dll
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/YAHAM.pdb
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/ClassLibrary1.dll
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/bin/Debug/net6.0/ClassLibrary1.pdb
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.AssemblyReference.cache
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfoInputs.cache
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.AssemblyInfo.cs
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CoreCompileInputs.cache
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.csproj.CopyComplete
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.dll
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/refint/YAHAM.dll
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.pdb
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/YAHAM.genruntimeconfig.cache
+/Users/nikolajlelekov/Desktop/алг/priora 3/YAHAM/obj/Debug/net6.0/ref/YAHAM.dll
